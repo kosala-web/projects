@@ -1,4 +1,4 @@
 git add filename
 git satus
 git commit - m "comment"
-git push origin
+git push  origin main
